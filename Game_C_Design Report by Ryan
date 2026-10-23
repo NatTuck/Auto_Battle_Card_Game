@@ -1,0 +1,24 @@
+What design decisions you made as authorial choices and why. (I think this falls more under the art side, nothing with the base design of the game)
+
+
+
+Play testing reports for the play testing you did during the second week. This should include at least two sessions where your team got together and played several playtest games.
+
+   After the first day, we made a few changes to the base game, as well as include the full deck itself. Originally we only used one deck, split into  two teams with the Red Cards vs the Black Cards.
+We sets of the cards sleeved and now both teams had decks of 52 cards. 24 "support cards" 8 "removal cards" and the remaining as "Infantry Cards". The reason for this change was with the original 
+deck size of only 26 cards per side was limiting and often ran out of cards mid battle, leading to whichever had the most health at the start, and more troops on the field to win by default. 
+
+What decision decisions you made as a result of play testing and why.
+
+   One change we made for this was the abilities of the King and Jack cards. Originally all did the exact same thing, which was allowing us to increase our money for a round, since we rarely 
+had to worry about this, we figured to change the cards so each had a different purpose. We also proceeded to expand the battlefield from 2x3 wide, to 2x5 for everything with the Support Cards 
+in the back line and the Infantry and removal in the front. We also decided to increase the base hand from the max of 3 cards we had to being able to draw UP to 5 cards, only drawing three cards 
+at a time. with these changes to hand size and battlefield area, made the game come together far more. All of these changes were made because while the game was fun, it had stale moments because 
+of the limited area we had. After these changes came through, the game was far more enjoyable and required a but more strategy in order to secure victory for your side. 
+
+You should include some additional discussion on topics like game loop optimization, why you picked specific numbers (or similar), how well mechanics work in a paper game vs. digital, etc.
+
+   For why we chose some of the numbers for things, each was caused by a certain reason. For example the 10 credits for spending your troops. The highest number card in the deck for Infantry 
+was the 10, and since it could only be beaten by two cards those being itself and the Ace, we figured that playing that should cost the most, so it took all the credits for that round. 
+The hand size was chosen to be 5 to line up with the battlefield size itself. Only drawing 3 cards was to balance things out a little bit. Originally when the field was that 2x3 area, 
+we drew back up to a fill hand which was 3 at the time, we decided with the larger battlefield, we should limit how many cards can be drawn as to make it play differently and a bit more strategic.
