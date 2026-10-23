@@ -1,0 +1,30 @@
+Rules:---------------------------------------------------
+Deck: 
+Cards 2-10 are "Infantry. They cost their number (Exm 10 is 10 points). They beat cards lower and lose to higher cards.
+Aces are a instant kill of any card infront of it (On the first row) no matter the number and is dicared right after.
+Face cards are Support. 
+Support: You have a row behind your first row where support cards can be placed. They cost no points and have to abilities. they are face down until use.
+Jack: allows you to switch cards on your feild before and after "infantry cards" are revieled.
+King: allows you to combine the attack of adjacent cards to win one column but the supporting card will have 0 attack and will lose any fight.
+Queen: +2 point for that round to spend on summons when discarded.
+The support cards have no attack and no defence. They take a hit and are discarded, and when they are used, they are discarded.
+
+Board:
+Each team has five columns to place cards. This is then split into two rows. The first row is for numbered card/aces and is effected by aces.
+The back row is for support cards only. the far back behind this line is the player's health which numbers 5 hit-points.
+
+Draw: Each player draws three cards to a max of five.
+Summon: Each player starts with ten points at the begining of each round. They can then spend those points on summoning numbered cards or can freely summon a support card.
+When summoned, the cards are put into a column face down.
+Battle: Cards are flipped upright and the cards in each column attack the opposing column. The higher cards win the ingagement and stay on the column. losing cards are discarded.
+if a column doesn't have a numbered card infront of it; then the attack is absorbed by the support in that column. If there is not support card in the column either; then the player loses one hit-point.
+Reset: start a new round if no player has reached 0 hit-points.
+Tie breaking: If both players reach 0 hit-points the same round. Then see who has less cards discarded; That is the winner.
+
+Phases:
+Set up Phase: Each player draws from their deck to five cards. The players agree on the position of the five columns to avoid confusion.
+Phase 1: Each player draws three cards up to five total in their hand.
+Phase 2: You may discard any queen cards you have on the board for +2 points each that turn.
+Phase 3: With the starting amount of points being 10 (Plus any extra queen points) you may play your cards onto the board face down. 
+Phase 4: Flip all face down infantry cards, and discard cards that lost their fights in their respective rows. May discard Jacks and Kings on board in phases 3-4.
+Phase 5: Check how many fights reached the players and subtract hit points acordingly. If nobody has reached 0, return to phase 1.
