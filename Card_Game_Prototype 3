@@ -20,4 +20,4 @@ Battle: Cards are flipped upright and the cards in each slot attack the opposing
 if a slot doesn't have a numbered card infront of it; then the attack is absorbed by the support in that slot. If there is not support card in the slot either; then the player loses one hit-point.
 Reset: start a new round if no player has reached 0 hit-points.
 
-Large
+
