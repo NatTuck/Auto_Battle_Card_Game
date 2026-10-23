@@ -1,0 +1,14 @@
+Card List:
+ACE: A explosive mine that destroys any infantry card in the opposing colomn with it self.
+2: Infantry Card with 2 attack
+3: Infantry Card with 3 attack
+4: Infantry Card with 4 attack
+5: Infantry Card with 5 attack
+6: Infantry Card with 6 attack
+7: Infantry Card with 7 attack
+8: Infantry Card with 8 attack
+9: Infantry Card with 9 attack
+10: Infantry Card with 10 attack
+Jack: Support card that goes in second row. Has 0 attack. When discarded, you may switch the position of your cards on the board.
+Queen: Support card that goes in second row. Has 0 attack. When discarded, you gain two points to spend that turn.
+King: Support card that goes in second row. Has 0 attack. When discarded, you may add the attack of a adjacent card to a card. The card you take the attack from will now have 0 attack for that round.
